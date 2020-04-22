@@ -10,20 +10,3 @@ blockquote {
   font-size: 0.9em;
   line-height: 1.6em;
 }
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  text-align: center;
-  padding: 0.8em 1.2em;
-}
-
-a {
-  text-decoration: none;
-  text-align: center;
-  padding: 1em;
-}
